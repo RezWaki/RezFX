@@ -1,4 +1,9 @@
 # RezFX
+v2.0:
+	Optimized code (removed unused GL hooks)
+	Color settings:
+		{ F1/F2 - Red, F3/F4 - Green, F5/F6 - Blue }
+
 RezFX is DLL what is need to be injected with "injector.exe".
 Open injector.exe, enter "hl.exe" (without quotes) in "Process Name" textbox.
 Now click "Add DLL" & select "rezfx.dll", click Ok.
